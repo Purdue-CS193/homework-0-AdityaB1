@@ -1,3 +1,12 @@
+# Aditya Bose's First CS193 Homework
+
+- Here is a list of some of my favorite things about CS193
+- I think it will be a very resourceful class and I am happy to be taking it right now as a freshman
+- I like that there is a class like CS193 at Purdue because it will give me knowledge about a lot of useful applications
+- The TAs are very helpful and as far as I can see, have been quick to respond on Edpuzzle :)
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
